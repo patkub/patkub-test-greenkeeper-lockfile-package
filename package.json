@@ -1,6 +1,6 @@
 {
   "name": "patkub-test-greenkeeper-lockfile-package",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Package used to personally test greenkeeper lockfile",
   "main": "index.js",
   "scripts": {
